@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<DoorbellCatalog>
+    <dbl id="dbl1">
+        <name>Google Nest Doorbell (Wired)</name>
+        <price>99.97</price>
+        <description>Nest Hello is now the Nest Doorbell (wired); no matter which name is on the box, you'll find the same great product inside</description>
+        <image>dbl1.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Trushome Doorbell Mount</accessory>
+        </accessories>
+    </dbl>
+    <dbl id="dbl2">
+        <name>EKEN Smart Video Doorbell</name>
+        <price>39.98</price>
+        <description>Truly Wire-Free Design: Engineered for 2.4G Wi-Fi (5G Wi-Fi not supported), this doorbell camera comes with a complimentary Doorbell Chime, ensuring you never miss a visitor, wherever you are.</description>
+        <image>dbl2.jpg</image>
+        <manufacturer>Eken</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Trushome Doorbell Mount</accessory>
+        </accessories>
+    </dbl>
+    <dbl id="dbl3">
+        <name>REOLINK Video Doorbell PoE Camera</name>
+        <price>79.99</price>
+        <description>5MP Super HD Image in 180° Diagonal: Find the right position for your doorbell with its 15° wedge kit and enjoy the super wide field of view. Incredible 5MP HD, with advanced HDR/3D DNR and distortion correction technologies, brings you sharp and detailed images even in low light conditions.</description>
+        <image>dbl3.jpg</image>
+        <manufacturer>Reolink</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Trushome Doorbell Mount</accessory>
+        </accessories>
+    </dbl>
+    <dbl id="dbl4">
+        <name>Google Nest Doorbell (Wireless)</name>
+        <price>179.99</price>
+        <description>The Nest Doorbell has built-in intelligence and can tell the difference between a person, package, animal, and vehicles and send you an alert in the Google Home app[1], no subscription required.</description>
+        <image>dbl4.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Trushome Doorbell Mount</accessory>
+        </accessories>
+    </dbl>
+    <dbl id="dbl5">
+        <name>REOLINK Doorbell WiFi Camera</name>
+        <price>109.99</price>
+        <description>5MP Super HD Day and Night! Incredible 5MP HD, with advanced HDR/3D DNR and distortion correction technologies, brings you sharp and detailed images even in low light conditions.</description>
+        <image>dbl5.jpg</image>
+        <manufacturer>Reolink</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>Trushome Doorbell Mount</accessory>
+        </accessories>
+    </dbl>
+</DoorbellCatalog>
+
+<DoorLockCatalog>
+    <dlk id="dlk1">
+        <name>Philips Smart Lock</name>
+        <price>109.99</price>
+        <description>User-friendly : 4 ways to unlock, both convenient and adaptable.</description>
+        <image>dlk1.jpg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </dlk>
+    <dlk id="dlk2">
+        <name>Philips Keyless Entry Door Lock with Keypad</name>
+        <price>129.99</price>
+        <description>Convenient keyless entry: This electronic deadbolt offers 20 access codes and 50 fingerprints for family use, allowing you to enter your home without mechanical keys. (No internet required)</description>
+        <image>dlk2.jpg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </dlk>
+    <dlk id="dlk3">
+        <name>Veise Smart Lock</name>
+        <price>139.99</price>
+        <description>7-in-1 Smart Door Lock: Access your smart lock via Fingerprint + App + Web portal + Fobs +Code + eKey sharing + Mechanical key.</description>
+        <image>dlk3.jpg</image>
+        <manufacturer>Veise</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </dlk>
+    <dlk id="dlk4">
+        <name>Veise Smart Lock (Keyless Entry)</name>
+        <price>79.99</price>
+        <description>Keyless Entry Door Lock: The smart lock has a 5 in 1 access method, APP + Fobs + password + key + thumb turn.</description>
+        <image>dlk4.jpg</image>
+        <manufacturer>Veise</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </dlk>
+    <dlk id="dlk5">
+        <name>Wyze Lock Bolt</name>
+        <price>79.96</price>
+        <description>Fingerprint Unlock: Gone are the days of fumbling for keys. Wyze Lock Bolt recognizes your fingerprint and unlocks the door in under a second.</description>
+        <image>dlk5.jpg</image>
+        <manufacturer>Wyze</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </dlk>
+</DoorLockCatalog>
+
+<SpeakerCatalog>
+    <spkr id="spkr1">
+        <name>Echo Dot (5th Gen, 2022 release)</name>
+        <price>49.99</price>
+        <description>OUR BEST SOUNDING ECHO DOT YET - Enjoy an improved audio experience compared to any previous Echo Dot with Alexa for clearer vocals, deeper bass and vibrant sound in any room.</description>
+        <image>spkr1.jpg</image>
+        <manufacturer>Echo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </spkr>
+    <spkr id="spkr2">
+        <name>Echo Pop</name>
+        <price>39.99</price>
+        <description>INTRODUCING ECHO POP - This compact smart speaker with Alexa features full sound that's great for bedrooms and small spaces. Small enough to blend in and mighty enough to stand out.</description>
+        <image>spkr2.jpg</image>
+        <manufacturer>Echo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </spkr>
+    <spkr id="spkr3">
+        <name>Bose Home Speaker 500</name>
+        <price>379.00</price>
+        <description>SOUND PERFORMANCE: Fill any room with impressive wall-to-wall stereo sound from a single speaker</description>
+        <image>spkr3.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </spkr>
+    <spkr id="spkr4">
+        <name>iHome iBT158 Smart Bluetooth Speaker</name>
+        <price>75.91</price>
+        <description>12 HOURS OF MUSIC ON THE GO - Recharge your speaker and enjoy up to 12 hours of non-stop music playing time.</description>
+        <image>spkr4.jpg</image>
+        <manufacturer>iHome</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </spkr>
+    <spkr id="spkr5">
+        <name>Echo Studio</name>
+        <price>199.99</price>
+        <description>ENJOY AN IMMERSIVE AUDIO EXPERIENCE - Echo Studio now features spatial audio processing technology for a wider and more immersive audio experience.</description>
+        <image>spkr5.jpg</image>
+        <manufacturer>Echo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </spkr>
+</SpeakerCatalog>
+
+<LightingCatalog>
+    <lght id="lght1">
+        <name>Philips Hue White and Color Ambiance Smart Light</name>
+        <price>89.99</price>
+        <description>Starter kit includes one Hue Bridge and two Hue White and color ambiance smart, color changing 60W / 9.5W A19 light bulbs suitable for most fixtures</description>
+        <image>lght1.jpg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </lght>
+    <lght id="lght2">
+        <name>Govee Smart LED Light Bars</name>
+        <price>49.99</price>
+        <description>Exciting Lighting Experience: Adopts innovative RGBICWW technology to display rainbow-like light effects created from 16 millions colors.</description>
+        <image>lght2.jpg</image>
+        <manufacturer>Govee</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </lght>
+    <lght id="lght3">
+        <name>Govee Smart Light Bulbs</name>
+        <price>33.99</price>
+        <description>16 Million DIY Colors: Govee smart light bulbs own millions of color and 54 preset scene modes, you can explore your favored one or pick one suits your moods most, bringing yourself a real fantastic lighting experience</description>
+        <image>lght3.jpg</image>
+        <manufacturer>Govee</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </lght>
+    <lght id="lght4">
+        <name>Kasa Smart LED Light Strip</name>
+        <price>18.99</price>
+        <description>[High brightness and saturation] The 16.4ft LED light strip features customization up to 16 million colors with high brightness and saturation for the best lighting throughout your home.</description>
+        <image>lght4.jpg</image>
+        <manufacturer>Kasa</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </lght>
+    <lght id="lght5">
+        <name>Philips Hue 2-Pack Bluetooth Smart Lightstrip</name>
+        <price>189.99</price>
+        <description>Includes two Hue 6-foot LED light strip base kits with two plugs; perfect for mood lighting anywhere in your home; get started out of the box with Bluetooth</description>
+        <image>lght5.jpg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </lght>
+</LightingCatalog>
+
+<ThermostatCatalog>
+    <trmst id="trmst1">
+        <name>Amazon Smart Thermostat</name>
+        <price>79.99</price>
+        <description>Smart upgrade - Amazon Smart Thermostat is an easy way to switch from a traditional thermostat and help reduce energy usage.</description>
+        <image>trmst1.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </trmst>
+    <trmst id="trmst2">
+        <name>Google Nest Thermostat</name>
+        <price>128.99</price>
+        <description>ENERGY STAR certified smart thermostat for home that helps you save energy and stay comfortable.</description>
+        <image>trmst2.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </trmst>
+    <trmst id="trmst3">
+        <name>Google Nest Learning Thermostat</name>
+        <price>199.00</price>
+        <description>No more programming: With Auto-Schedule, the Google Nest Learning Thermostat learns from you and programs itself.</description>
+        <image>trmst3.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </trmst>
+    <trmst id="trmst4">
+        <name>Honeywell Home Wi-Fi Smart Color Thermostat</name>
+        <price>79.99</price>
+        <description>COMFORT COMES IN YOUR COLOR. Personalize your Wi-Fi Smart Color Programmable Thermostat to fit your décor.</description>
+        <image>trmst4.jpg</image>
+        <manufacturer>Honeywell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </trmst>
+    <trmst id="trmst5">
+        <name>Honeywell Home Wi-Fi Programmable Thermostat</name>
+        <price>69.99</price>
+        <description>ENERGY STAR certified. Help save energy, track your heating and cooling with monthly energy reports and get personalized tips on reducing energy use.</description>
+        <image>trmst5.jpg</image>
+        <manufacturer>Honeywell</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </trmst>
+</ThermostatCatalog>
+
+<AccessoryCatalog>
+    <accessory id="accessory1">
+        <name>Trushome Doorbell Mount</name>
+        <price>19.99</price>
+        <description>Compatible With Multiple Wireless Doorbells: Trushome doorbell mount is used for different sizes of doorbells by filling the inside with sponges of different thicknesses.</description>
+        <image>accessory1.jpg</image>
+        <manufacturer>Trushome</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+</AccessoryCatalog>
+
+</ProductCatalog>
